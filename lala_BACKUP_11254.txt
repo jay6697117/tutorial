@@ -2,8 +2,5 @@
 lalaalalalla
 hahahaha
 lelele
-<<<<<<< HEAD
 gitdemo/gitdemo/gitdemo
-=======
 desktop/desktop/desktop
->>>>>>> 274f059dbd83a64afd2f9ba037ad7822816a7479
